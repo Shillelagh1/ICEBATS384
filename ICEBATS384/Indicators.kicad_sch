@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "2291deb6-d32a-4d35-bf1f-3db18f341734")
 	(paper "A4")
+	(title_block
+		(title "ICEBATS384")
+		(date "2025-06-13")
+		(rev "A")
+		(company "Soldersplash")
+	)
 	(lib_symbols
 		(symbol "Device:LED_Small"
 			(pin_numbers

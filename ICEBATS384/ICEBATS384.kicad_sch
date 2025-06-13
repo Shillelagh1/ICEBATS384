@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "164d84f8-7304-4c9a-a2ca-742209643293")
 	(paper "A4")
+	(title_block
+		(title "ICEBATS384")
+		(date "2025-06-13")
+		(rev "A")
+		(company "Soldersplash")
+	)
 	(lib_symbols
 		(symbol "2025-06-09_04-19-34:W25X40CLUXIG_TR"
 			(pin_names
@@ -13182,7 +13188,7 @@
 		)
 	)
 	(sheet
-		(at 40.64 15.24)
+		(at 33.02 15.24)
 		(size 12.7 12.7)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13198,7 +13204,7 @@
 		)
 		(uuid "52a1a44e-ebd0-4000-abb8-e37798d58f06")
 		(property "Sheetname" "Indicators"
-			(at 40.64 14.5284 0)
+			(at 33.02 14.5284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13207,49 +13213,7 @@
 			)
 		)
 		(property "Sheetfile" "Indicators.kicad_sch"
-			(at 40.64 28.5246 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "ICEBATS384"
-				(path "/164d84f8-7304-4c9a-a2ca-742209643293"
-					(page "4")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 26.67 15.24)
-		(size 12.7 12.7)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "ec5ee40b-aed9-4aac-859f-3aea2b84d4d9")
-		(property "Sheetname" "Flash"
-			(at 26.67 14.5284 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Flash.kicad_sch"
-			(at 26.67 28.5246 0)
+			(at 33.02 28.5246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
