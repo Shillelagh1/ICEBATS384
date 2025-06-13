@@ -1,0 +1,171 @@
+(footprint "Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Abracon ASE, Miniature Crystal Clock Oscillator, 3.2x2.5mm package, SMD, generated with kicad-footprint-generator make_crystal.py, http://www.abracon.com/Oscillators/ASEseries.pdf")
+	(tags "SMD SMT crystal oscillator")
+	(property "Reference" "REF**"
+		(at 0 -2.45 0)
+		(layer "F.SilkS")
+		(uuid "09b99395-9ceb-4206-9a66-3915a8edaf34")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm"
+		(at 0 2.45 0)
+		(layer "F.Fab")
+		(uuid "c4e5db80-c13f-4f59-a2e3-8c4539762288")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "290aa9b3-5825-4b68-a667-02cfaeca0220")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "14697c21-44cd-4cd5-b8a8-ef91f41ef94b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.96 -1.635)
+		(end -1.96 1.635)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "20b040fa-d3e1-47d8-b95d-7c66f949f759")
+	)
+	(fp_line
+		(start -1.96 1.635)
+		(end 1.96 1.635)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e1db331b-4f34-4191-af4d-9c1bcd0ce07c")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0.25 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Adhes")
+		(uuid "08ca6243-9e88-4632-9b40-9274f835653b")
+	)
+	(fp_rect
+		(start -2.1 -1.75)
+		(end 2.1 1.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "1a750ff2-3897-4ae6-8d0a-28f63adfa966")
+	)
+	(fp_poly
+		(pts
+			(xy -1.6 -1.25) (xy -1.6 0.625) (xy -0.975 1.25) (xy 1.6 1.25) (xy 1.6 -1.25)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "e9c0db64-08ee-4719-9522-4585fa5593a3")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "cccf8949-3dbd-4cfc-b0b3-188f939479d0")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -1.05 0.825)
+		(size 1.3 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.227273)
+		(uuid "18075376-a479-423d-8856-dccc42a09a4c")
+	)
+	(pad "2" smd roundrect
+		(at 1.05 0.825)
+		(size 1.3 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.227273)
+		(uuid "a9da7340-4d92-4d29-bc50-7e9f98fb25b9")
+	)
+	(pad "3" smd roundrect
+		(at 1.05 -0.825)
+		(size 1.3 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.227273)
+		(uuid "8be8470f-73be-4c76-9e45-c806d4bfb219")
+	)
+	(pad "4" smd roundrect
+		(at -1.05 -0.825)
+		(size 1.3 1.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.227273)
+		(uuid "53ba43a7-f4df-4f5b-9966-ca4638e319a2")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_Abracon_ASE-4Pin_3.2x2.5mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KICAD9_3DMODEL_DIR}/Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_SG210-4Pin_2.5x2.0mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1.4 1.6 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

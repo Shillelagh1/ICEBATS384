@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-16042024-002778";"";
+"REFERENCE";"5017450401";"";
+"TraceParts.PartTitle";"SlimStack";"";
+"TraceParts.InstanceId";"90-16042024-0027782N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"SlimStack Board-to-Board Plug, 0.40mm Pitch, J-Bend Series, 2.00 or 2.30mm Mated Height, 3.40 or 4.20mm Mated Width, 40 Circuits";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.2";"";

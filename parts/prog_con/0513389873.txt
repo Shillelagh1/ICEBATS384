@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-08042024-044451";"";
+"REFERENCE";"513389873";"";
+"TraceParts.PartTitle";"SlimStack";"";
+"TraceParts.InstanceId";"90-08042024-0444512N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"Molex";"";
+"DESIGN";"SlimStack Board-to-Board Receptacle, 0.40mm Pitch, J-Bend Series, 0.20µm  Gold (Au) Plating, 1.50 or 2.00mm Mated Height, 3.40mm Mated Width, 10 Circuits";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.4";"";
