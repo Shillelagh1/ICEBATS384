@@ -23,9 +23,9 @@ This board is designed as a small universal FPGA daughterboard that can be added
 
 # TODO:
 - [X] Rough board layout.
-- [ ] Large scale prototype board.
+- [ ] Peripheral boards (IO Breakout, Programming ribbon board, Automated test board).
 - [ ] Final schematic review.
-- [ ] First revision prototype assembled.
+- [ ] First revision prototype.
 - [ ] Prototype rework (Or it works first try?)
 - [ ] All features test.
 - [ ] Project integration.
